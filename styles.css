@@ -1,7 +1,7 @@
 
 body {
     font-family:Figtree;
-    background-color: blue; /*cambio de color*/
+    background-color: blue; 
     display: flex;
     justify-content: center;
     align-items: center;
